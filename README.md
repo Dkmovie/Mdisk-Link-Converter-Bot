@@ -30,7 +30,7 @@ Start your Bot in Telegram & Enjoy
 #### The Easy Way
 Copy the below link & replace the GitHub-UserName with your username than Deploy using that link.
 
-https://www.heroku.com/deploy?template=https:https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot
+https://studio.mogenius.com/studio/cloud-space/id/424ae580-84c3-47ff-bcc7-2c2ff4f24bf4/stage/d5ad5c3b-1a4e-49d9-a5ba-91ed2a10fdb0/service/0d956940-314a-43f7-827d-0a5603dfdc78/overview
 
 ##### Required Variables
 
