@@ -34,7 +34,7 @@ async def start(bot, message):
 @bot.on_message(filters.text & filters.private)
 async def Doodstream_uploader(bot, message):
     new_string = str(message.text)
-    conv = await message.reply("Wait Bnaraha Hu Tab Tak @TechnicalCynite Check Karo✋")
+    conv = await message.reply("⚡")
     dele = conv["message_id"]
     try:
         Doodstream_link = await multi_Doodstream_up(new_string)
@@ -47,7 +47,7 @@ async def Doodstream_uploader(bot, message):
 @bot.on_message(filters.photo & filters.private)
 async def Doodstream_uploader(bot, message):
     new_string = str(message.caption)
-    conv = await message.reply("Wait Bnaraha Hu Tab Tak @movie_a1 join Karo✋")
+    conv = await message.reply("⚡")
     dele = conv["message_id"]
     try:
         Doodstream_link = await multi_Doodstream_up(new_string)
